@@ -1,7 +1,7 @@
 # Kodluyoruz Ilk Repo
 
 Bu repo [Kodluyoruz](https://app.patika.dev/paths/baslangic-seviye-java-ile-backend-web-development-patikasi) Front-End Eğitiminde oluşturduğumuz ilk repo. İçerisindeki bir adet README dosyası, bir adet de index.html barındırıyor.
-![projeresmi]()
+![projeresmi](https://github.com/kmaksut/kodluyoruzilkrepo/blob/main/markdown.png)
 
  # Installation
  Öncelikle projeyi clonelayalın.
