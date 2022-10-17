@@ -8,7 +8,7 @@ Bu repo [Kodluyoruz](https://app.patika.dev/paths/baslangic-seviye-java-ile-back
  `git clone https://github.com/kmaksut/kodluyoruzilkrepo.git` 
 
 # Usage
-Projeyi clonelandıktan sonra Visual Studio Code programında açıyoruz.
+Projeyi clonelandıktan sonra Visual Studio Code programında açınız.
 
 Linux için:
 
